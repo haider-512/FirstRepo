@@ -1,3 +1,5 @@
 Hello this is text file
-changed a sentence
+
+This is not a read me file
+
 It is in Git101 session
